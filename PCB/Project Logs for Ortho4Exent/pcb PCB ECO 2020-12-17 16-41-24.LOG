@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=R1 Old Footprint=RESC0402N New Footprint=RESC0603N
+Change Component Footprint: Designator=R4 Old Footprint=RESC0402N New Footprint=RESC0603N
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC0402N"; UniqueID = "\NKQRPLZM" ("\NKQRPLZM")
+Change component parameters (AddParameter): Name = "COMPATIBLES"; Value = "F1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESCR"; Value = "RES SMD 22 OHM 1% 1/10W 100PPM 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "541-22.0HCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FARNELL"; Value = "#N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF"; Value = "VISHAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFCODE"; Value = "CRCW060322R0FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH"; Value = "RES 22R 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLY"; Value = "SUB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "22R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC0402N"; UniqueID = "\YQGYODYH" ("\YQGYODYH")
+Change component parameters (AddParameter): Name = "COMPATIBLES"; Value = "F1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESCR"; Value = "RES SMD 22 OHM 1% 1/10W 100PPM 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIGIKEY"; Value = "541-22.0HCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FARNELL"; Value = "#N/A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUF"; Value = "VISHAY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANUFCODE"; Value = "CRCW060322R0FKEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SCH"; Value = "RES 22R 0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "YES"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLY"; Value = "SUB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "22R"; VariantName = "[No Variations]"
