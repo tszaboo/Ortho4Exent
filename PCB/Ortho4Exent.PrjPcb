@@ -122,6 +122,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPWAUTPB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Ortho4Exent\Design Rule Check - pcb.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Ortho4Exent\Net Status - pcb.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
