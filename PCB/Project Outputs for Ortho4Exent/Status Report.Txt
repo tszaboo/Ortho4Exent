@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:49:47 On 2020-12-18
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [PRODUCTION] of Project [Ortho4Exent.PrjPcb]
+   Generated File[Bill of Materials-Ortho4Exent(PRODUCTION).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:49:49 On 2020-12-18
