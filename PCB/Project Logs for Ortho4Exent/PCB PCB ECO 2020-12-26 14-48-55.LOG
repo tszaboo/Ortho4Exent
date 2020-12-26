@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC3_2
+Added Member To Class: ClassName=MCU Member=Component C2 0805 10µF
+Added Member To Class: ClassName=MCU Member=Component C10 0402 100nF
+Added Member To Class: ClassName=MCU Member=Component C11 0402 100nF
