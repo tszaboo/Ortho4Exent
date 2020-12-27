@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\TamasSzabo\Documents\GitHub\Ortho4Exent\PCB\PCB.PcbDoc
-Date     : 2020-12-26
-Time     : 15:26:32
+Date     : 2020-12-27
+Time     : 12:21:48
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -65,4 +65,4 @@ Rule Violations :0
 
 Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:03

@@ -1,0 +1,17 @@
+Added Component: Designator=D72(SOT23-6L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/82400102.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "BJ.Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Jan 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "82400102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_P Pin=D72-1
+Added Pin To Net: NetName=GND Pin=D72-2
+Added Pin To Net: NetName=USB_N Pin=D72-3
+Added Pin To Net: NetName=USB_N Pin=D72-4
+Added Pin To Net: NetName=VCC_5V Pin=D72-5
+Added Pin To Net: NetName=USB_P Pin=D72-6
+Added Member To Class: ClassName=MCU Member=Component D72 VDC = 5V

@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Ortho4Exent
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -139,12 +139,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=..\..\..\..\..\..\SVN\Common\Altium component library\Würth\WE-TVS_rev16a.intlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=45540677-4D71-4E98-AB87-7DF928CDDBF0
 Description=PRODUCTION
 AllowFabrication=0
 ParameterCount=0
-VariationCount=72
+VariationCount=73
 Variation1=Designator=S61|UniqueId=\JNHBXIAM|Kind=1|AlternatePart= 
 Variation2=Designator=S46|UniqueId=\RAKZMAIZ|Kind=1|AlternatePart= 
 Variation3=Designator=S31|UniqueId=\MGTADXHW|Kind=1|AlternatePart= 
@@ -217,6 +234,7 @@ Variation69=Designator=S60|UniqueId=\QSSFBJIU|Kind=1|AlternatePart=
 Variation70=Designator=S71|UniqueId=\MAFUATJS|Kind=1|AlternatePart= 
 Variation71=Designator=S70|UniqueId=\AYFIHMYN|Kind=1|AlternatePart= 
 Variation72=Designator=S69|UniqueId=\MVZSUOHF|Kind=1|AlternatePart= 
+Variation73=Designator=P1|UniqueId=\ZRUFSKEC|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -235,6 +253,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Ortho4Exent\Net Status - pcb.html
 DItemRevisionGUID=
 
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Ortho4Exent\BOM\Production BOM-Ortho4Exent(PRODUCTION).xlsx
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -246,7 +268,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Ortho4Exent
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -357,7 +379,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Printcontrol C258
+TargetPrinter=HP LaserJet 1020
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

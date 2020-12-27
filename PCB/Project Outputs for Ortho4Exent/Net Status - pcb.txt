@@ -1,21 +1,21 @@
 Net Status Report
 Filename     : C:\Users\TamasSzabo\Documents\GitHub\Ortho4Exent\PCB\PCB.PcbDoc
-Date         : 2020-12-17
-Time         : 18:01:04
+Date         : 2020-12-27
+Time         : 12:22:12
 Time Elapsed : 00:00:00
 
 Nets, Layer, Length
-    C0, Signal Layers Only, 321.3424mm
-    C1, Signal Layers Only, 286.5726mm
+    C0, Signal Layers Only, 321.9637mm
+    C1, Signal Layers Only, 323.1388mm
     C2, Signal Layers Only, 286.1212mm
-    C3, Signal Layers Only, 276.225mm
-    C4, Signal Layers Only, 317.3277mm
+    C3, Signal Layers Only, 301.3027mm
+    C4, Signal Layers Only, 320.5598mm
     CAPS, Signal Layers Only, 156.0651mm
-    GND, Signal Layers Only, 865.6462mm
-    NetC10_2, Signal Layers Only, 6.8706mm
-    NetC11_2, Signal Layers Only, 4.5468mm
+    GND, Signal Layers Only, 1186.145mm
     NetC1_2, Signal Layers Only, 2.3786mm
-    NetC2_2, Signal Layers Only, 1.775mm
+    NetC3_2, Signal Layers Only, 4.5468mm
+    NetC4_2, Signal Layers Only, 6.8706mm
+    NetC9_2, Signal Layers Only, 1.775mm
     NetD10_1, Signal Layers Only, 8.7473mm
     NetD11_1, Signal Layers Only, 8.7473mm
     NetD12_1, Signal Layers Only, 8.7473mm
@@ -45,8 +45,8 @@ Nets, Layer, Length
     NetD34_1, Signal Layers Only, 7.7718mm
     NetD35_1, Signal Layers Only, 7.7718mm
     NetD36_1, Signal Layers Only, 7.7718mm
-    NetD37_1, Signal Layers Only, 7.5807mm
-    NetD38_1, Signal Layers Only, 8.0666mm
+    NetD37_1, Signal Layers Only, 6.8565mm
+    NetD38_1, Signal Layers Only, 6.2246mm
     NetD39_1, Signal Layers Only, 7.7718mm
     NetD3_1, Signal Layers Only, 8.7473mm
     NetD40_1, Signal Layers Only, 7.7718mm
@@ -56,15 +56,15 @@ Nets, Layer, Length
     NetD44_1, Signal Layers Only, 7.7718mm
     NetD45_1, Signal Layers Only, 5.0364mm
     NetD46_1, Signal Layers Only, 5.0364mm
-    NetD47_1, Signal Layers Only, 7.7718mm
-    NetD48_1, Signal Layers Only, 7.7718mm
-    NetD49_1, Signal Layers Only, 7.7718mm
+    NetD47_1, Signal Layers Only, 5.7346mm
+    NetD48_1, Signal Layers Only, 5.6846mm
+    NetD49_1, Signal Layers Only, 6.1346mm
     NetD4_1, Signal Layers Only, 8.7473mm
-    NetD50_1, Signal Layers Only, 7.7718mm
+    NetD50_1, Signal Layers Only, 5.5846mm
     NetD51_1, Signal Layers Only, 7.7718mm
     NetD52_1, Signal Layers Only, 7.7718mm
     NetD53_1, Signal Layers Only, 7.7718mm
-    NetD54_1, Signal Layers Only, 7.7718mm
+    NetD54_1, Signal Layers Only, 7.2273mm
     NetD55_1, Signal Layers Only, 7.7718mm
     NetD56_1, Signal Layers Only, 7.7718mm
     NetD57_1, Signal Layers Only, 7.7718mm
@@ -88,8 +88,8 @@ Nets, Layer, Length
     NetD8_1, Signal Layers Only, 5.0091mm
     NetD9_1, Signal Layers Only, 8.7473mm
     NetLED10_2, Signal Layers Only, 34.2561mm
-    NetLED11_2, Signal Layers Only, 43.0258mm
-    NetLED12_2, Signal Layers Only, 43.421mm
+    NetLED11_2, Signal Layers Only, 50.5231mm
+    NetLED12_2, Signal Layers Only, 44.1532mm
     NetLED13_2, Signal Layers Only, 63.7014mm
     NetLED14_2, Signal Layers Only, 73.5339mm
     NetLED15_2, Signal Layers Only, 52.4523mm
@@ -99,32 +99,32 @@ Nets, Layer, Length
     NetLED2_2, Signal Layers Only, 28.1102mm
     NetLED3_2, Signal Layers Only, 28.1102mm
     NetLED4_2, Signal Layers Only, 37.6352mm
-    NetLED5_2, Signal Layers Only, 56.6852mm
+    NetLED5_2, Signal Layers Only, 56.9928mm
     NetLED6_2, Signal Layers Only, 37.6499mm
     NetLED7_2, Signal Layers Only, 28.1102mm
     NetLED8_2, Signal Layers Only, 28.1102mm
     NetLED9_2, Signal Layers Only, 42.7501mm
-    NetR5_1, Signal Layers Only, 0mm
-    NetR6_1, Signal Layers Only, 4.2928mm
-    R0, Signal Layers Only, 185.5353mm
-    R1, Signal Layers Only, 152.0219mm
-    R10, Signal Layers Only, 113.3414mm
-    R11, Signal Layers Only, 140.9225mm
-    R12, Signal Layers Only, 141.684mm
-    R13, Signal Layers Only, 193.697mm
-    R14, Signal Layers Only, 204.7694mm
-    R2, Signal Layers Only, 114.0755mm
-    R3, Signal Layers Only, 127.704mm
-    R4, Signal Layers Only, 94.7719mm
-    R5, Signal Layers Only, 53.3165mm
-    R6, Signal Layers Only, 101.039mm
-    R7, Signal Layers Only, 57.6021mm
-    R8, Signal Layers Only, 108.4371mm
-    R9, Signal Layers Only, 103.5219mm
+    NetR4_1, Signal Layers Only, 3.9999mm
+    R0, Signal Layers Only, 197.1552mm
+    R1, Signal Layers Only, 163.4544mm
+    R10, Signal Layers Only, 135.3813mm
+    R11, Signal Layers Only, 164.6563mm
+    R12, Signal Layers Only, 164.2212mm
+    R13, Signal Layers Only, 247.5713mm
+    R14, Signal Layers Only, 256.7015mm
+    R2, Signal Layers Only, 129.4mm
+    R3, Signal Layers Only, 138.1689mm
+    R4, Signal Layers Only, 104.5091mm
+    R5, Signal Layers Only, 72.3061mm
+    R6, Signal Layers Only, 107.2694mm
+    R7, Signal Layers Only, 103.8867mm
+    R8, Signal Layers Only, 135.3835mm
+    R9, Signal Layers Only, 125.34mm
+    RST, Signal Layers Only, 72.0389mm
     USB2_N, Signal Layers Only, 12.3091mm
     USB2_P, Signal Layers Only, 14.8446mm
-    USB_N, Signal Layers Only, 22.7871mm
-    USB_P, Signal Layers Only, 22.6084mm
-    VCC_5V, Signal Layers Only, 717.3767mm
-    WS2812, Signal Layers Only, 140.1554mm
+    USB_N, Signal Layers Only, 22.1256mm
+    USB_P, Signal Layers Only, 23.6108mm
+    VCC_5V, Signal Layers Only, 1021.4027mm
+    WS2812, Signal Layers Only, 153.4247mm
 count : 122
