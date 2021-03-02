@@ -1,0 +1,16 @@
+*************************************************************
+FileName = pcb.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mounting plate cutout
+      File : pcb.GM3
+
+    Adding Layer      : Mounting plate cutout
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+

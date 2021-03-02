@@ -1,13 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [pcb.PcbDoc]
-   Generated File[pcb-RoundHoles.TXT]
-   Generated File[pcb-SlotHoles.TXT]
-   Generated File[pcb.LDP]
-   Generated File[pcb.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [PRODUCTION] of Project [Ortho4Exent.PrjPcb]
+   Generated File[Bill of Materials-Ortho4Exent(PRODUCTION).xlsx]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 17:14:35 On 2021-01-14
+Finished Output Generation At 12:28:24 On 2021-03-02

@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:29:15 On 2021-03-02
+
+Output: Plate
+Type  : Gerber
+From  : Variant [PRODUCTION] of PCB Document [pcb.PcbDoc]
+   Generated File[pcb.GM3]
+   Generated File[pcb.RUL]
+   Generated File[pcb.EXTREP]
+   Generated File[pcb.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:29:15 On 2021-03-02

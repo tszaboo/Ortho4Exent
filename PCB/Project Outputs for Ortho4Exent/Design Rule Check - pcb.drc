@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\TamasSzabo\Documents\GitHub\Ortho4Exent\PCB\PCB.PcbDoc
-Date     : 2020-12-27
-Time     : 12:21:48
+Date     : 2021-03-02
+Time     : 12:26:10
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -46,8 +46,8 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (4.75mm,6.35mm)(4.75mm,9.35mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.25mm) Between Board Edge And Track (-4.75mm,6.35mm)(-4.75mm,9.35mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.182mm < 0.25mm) Between Board Edge And Track (4.75mm,6.35mm)(4.75mm,8.6mm) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.182mm < 0.25mm) Between Board Edge And Track (-4.75mm,6.35mm)(-4.75mm,8.6mm) on Bottom Overlay 
 Rule Violations :2
 
 Processing Rule : Room MCU (Bounding Region = (333.299mm, 30.1mm, 340.399mm, 33.4mm) (Disabled)(InComponentClass('MCU'))
@@ -65,4 +65,4 @@ Rule Violations :0
 
 Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:04
