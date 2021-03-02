@@ -1,0 +1,139 @@
+Altium Designer Pick and Place Locations
+C:\Users\TamasSzabo\Documents\GitHub\Ortho4Exent\PCB\Project Outputs for Ortho4Exent\Pick Place\Pick Place for pcb(PRODUCTION).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12-01-21
+Time:       11:03
+Revision:   4eb4ad789a7450e96f473b6093d7c3e4a78cb085
+Variant:    PRODUCTION
+Units used: mm
+
+Designator Layer       Footprint        Center-X(mm) Center-Y(mm) Rotation DESCIPTION                                                               MANUF     MANUFCODE        COMPATIBLES 
+D72        BottomLayer SOT23-6L         -10.5000     -9.2500      360      ""                                                                       ""        ""               ""          
+C29        BottomLayer CAPC0402N        -95.2500     -5.7500      180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C28        BottomLayer CAPC0402N        -127.0000    -13.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C27        BottomLayer CAPC0402N        -128.0000    -42.0000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C26        BottomLayer CAPC0402N        -66.7500     -5.7500      180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C25        BottomLayer CAPC0402N        95.2500      -5.7500      180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C24        BottomLayer CAPC0402N        66.5000      -5.7500      180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C23        BottomLayer CAPC0402N        28.5000      -5.5000      180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C22        BottomLayer CAPC0402N        -28.5000     -5.5000      180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C21        BottomLayer CAPC0402N        -123.7500    -70.7500     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C20        BottomLayer CAPC0402N        65.5000      -70.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C19        BottomLayer CAPC0402N        -69.7500     -70.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C18        BottomLayer CAPC0402N        -95.7500     -70.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C17        BottomLayer CAPC0402N        -28.7500     -70.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C16        BottomLayer CAPC0402N        121.5000     -42.0000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C15        BottomLayer CAPC0402N        123.7500     -70.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C14        BottomLayer CAPC0402N        95.0000      -70.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C13        BottomLayer CAPC0402N        28.5000      -70.5000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C12        BottomLayer CAPC0402N        123.0000     -13.7500     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+R4         BottomLayer RESC0402N        -14.7500     -22.2500     180      "RES SMD 4.7K OHM 1% 1/16W 100PPM 0402"                                  VISHAY    CRCW04024K70FKED F1          
+C3         BottomLayer CAPC0402N        -2.7500      -28.5000     90       "CAP SMD 0402 10 pF 10V NP0"                                             WE        885012005007     ""          
+C4         BottomLayer CAPC0402N        -2.7500      -26.5000     270      "CAP SMD 0402 10 pF 10V NP0"                                             WE        885012005007     ""          
+Y1         BottomLayer WE-XTAL_CFPX-180 -0.5000      -27.5000     270      "CRYSTAL 16.0000MHZ 18PF SMD"                                            WE/IQD    830055951        ""          
+U1         BottomLayer 44PW_M           -9.0000      -28.0000     270      "IC MCU 8BIT 32KB FLASH 44VQFN"                                          Microchip ATMEGA32U4-MU-ND ""          
+S72        BottomLayer 434153017835     5.0000       -24.5000     360      "SWITCH TACTILE SPST-NO 0.05A 12V"                                       WE        434153017835     ""          
+R3         BottomLayer RESC0402N        0.2500       -23.7500     180      "RES SMD 4.7K OHM 1% 1/16W 100PPM 0402"                                  VISHAY    CRCW04024K70FKED F1          
+R2         BottomLayer RESC0603N        -11.2500     -13.5000     270      "RES SMD 22 OHM 1% 1/10W 100PPM 0603"                                    VISHAY    CRCW060322R0FKEA F1          
+R1         BottomLayer RESC0603N        -9.7500      -13.5000     270      "RES SMD 22 OHM 1% 1/10W 100PPM 0603"                                    VISHAY    CRCW060322R0FKEA F1          
+J1         BottomLayer 513870530        0.0000       6.3500       180      "USB - mini B USB 2.0 OTG Receptacle Connector 5 Position Surface Mount" MOLEX     513870530        ""          
+C2         BottomLayer CAPC0805N        3.2500       -28.0000     90       "CAP SMD 0805 10 µF 10 V X5R"                                            WE        885012107010     ""          
+C8         BottomLayer CAPC0402N        -11.2500     -21.7500     270      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C7         BottomLayer CAPC0402N        -14.7500     -25.2500     360      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C6         BottomLayer CAPC0402N        -14.5000     -30.2500     360      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C11        BottomLayer CAPC0402N        -3.0000      -24.7500     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C10        BottomLayer CAPC0402N        -6.2500      -33.0000     180      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C5         BottomLayer CAPC0402N        -8.2500      -21.7500     270      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C9         BottomLayer CAPC0402N        -14.7500     -26.2500     360      "CAP SMD 0402 100 nF 10V X5R"                                            WE        885012105010     ""          
+C1         BottomLayer CAPC0402N        -9.2500      -21.7500     270      "CAP SMD 0402 1 µF 10V X5R"                                              WE        885012105012     ""          
+LED18      BottomLayer WS2812           123.8250     -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED17      BottomLayer WS2812           95.2500      -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED16      BottomLayer WS2812           66.6750      -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED15      BottomLayer WS2812           28.5750      -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED14      BottomLayer WS2812           -28.5750     -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED13      BottomLayer WS2812           -66.6750     -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED12      BottomLayer WS2812           -95.2500     -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED11      BottomLayer WS2812           -123.8250    -66.6750     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED10      BottomLayer WS2812           -123.8250    -38.1000     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED9       BottomLayer WS2812           -123.8250    -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED8       BottomLayer WS2812           -95.2500     -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED7       BottomLayer WS2812           -66.6750     -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED6       BottomLayer WS2812           -28.5750     -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED5       BottomLayer WS2812           28.5750      -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED4       BottomLayer WS2812           66.6750      -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED3       BottomLayer WS2812           95.2500      -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED2       BottomLayer WS2812           123.8250     -9.5250      360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+LED1       BottomLayer WS2812           123.8250     -38.1000     360      "ADDRESS LED RED/GRN/BLUE"                                               Worldsemi WS2812B          ""          
+D71        BottomLayer SOD323FL         142.8750     -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D70        BottomLayer SOD323FL         114.3000     -66.6750     90       "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D69        BottomLayer SOD323FL         85.7250      -66.6750     90       "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D68        BottomLayer SOD323FL         47.6250      -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D67        BottomLayer SOD323FL         19.0500      -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D66        BottomLayer SOD323FL         9.5250       -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D65        BottomLayer SOD323FL         -9.5250      -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D64        BottomLayer SOD323FL         -47.6250     -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D63        BottomLayer SOD323FL         -76.2000     -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D62        BottomLayer SOD323FL         -104.7750    -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D61        BottomLayer SOD323FL         -133.3500    -66.6750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D60        BottomLayer SOD323FL         142.8750     -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D59        BottomLayer SOD323FL         123.8250     -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D58        BottomLayer SOD323FL         104.7750     -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D57        BottomLayer SOD323FL         85.7250      -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D56        BottomLayer SOD323FL         66.6750      -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D55        BottomLayer SOD323FL         47.6250      -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D54        BottomLayer SOD323FL         28.5000      -55.5000     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D53        BottomLayer SOD323FL         9.5250       -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D52        BottomLayer SOD323FL         -9.5250      -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D51        BottomLayer SOD323FL         -28.5750     -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D50        BottomLayer SOD323FL         -48.0000     -52.0000     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D49        BottomLayer SOD323FL         -66.5000     -52.0000     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D48        BottomLayer SOD323FL         -86.0000     -52.0000     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D47        BottomLayer SOD323FL         -105.0000    -52.0000     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D46        BottomLayer SOD323FL         -133.3500    -47.6250     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D45        BottomLayer SOD323FL         142.8750     -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D44        BottomLayer SOD323FL         123.8250     -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D43        BottomLayer SOD323FL         104.7750     -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D42        BottomLayer SOD323FL         85.7250      -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D41        BottomLayer SOD323FL         66.6750      -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D40        BottomLayer SOD323FL         47.6250      -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D39        BottomLayer SOD323FL         28.5750      -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D38        BottomLayer SOD323FL         9.5000       -32.2500     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D37        BottomLayer SOD323FL         -23.2500     -29.7500     180      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D36        BottomLayer SOD323FL         -28.5750     -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D35        BottomLayer SOD323FL         -47.6250     -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D34        BottomLayer SOD323FL         -66.6750     -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D33        BottomLayer SOD323FL         -85.7250     -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D32        BottomLayer SOD323FL         -104.7750    -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D31        BottomLayer SOD323FL         -133.3500    -28.5750     360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D30        BottomLayer SOD323FL         142.8750     -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D29        BottomLayer SOD323FL         114.3000     -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D28        BottomLayer SOD323FL         104.7750     -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D27        BottomLayer SOD323FL         85.7250      -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D26        BottomLayer SOD323FL         57.1500      -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D25        BottomLayer SOD323FL         47.6250      -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D24        BottomLayer SOD323FL         19.0500      -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D23        BottomLayer SOD323FL         9.5250       -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D22        BottomLayer SOD323FL         -19.0500     -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D21        BottomLayer SOD323FL         -36.7500     -9.5000      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D20        BottomLayer SOD323FL         -47.6250     -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D19        BottomLayer SOD323FL         -76.2000     -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D18        BottomLayer SOD323FL         -85.7250     -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D17        BottomLayer SOD323FL         -104.7750    -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D16        BottomLayer SOD323FL         -133.3500    -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D15        BottomLayer SOD323FL         147.5000     0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D13        BottomLayer SOD323FL         104.7750     0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D12        BottomLayer SOD323FL         85.7250      0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D11        BottomLayer SOD323FL         66.6750      0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D10        BottomLayer SOD323FL         47.6250      0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D9         BottomLayer SOD323FL         28.5750      0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D8         BottomLayer SOD323FL         0.0000       -9.5250      360      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D7         BottomLayer SOD323FL         -9.5250      0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D6         BottomLayer SOD323FL         -28.5750     0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D5         BottomLayer SOD323FL         -47.6250     0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D4         BottomLayer SOD323FL         -66.6750     0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D3         BottomLayer SOD323FL         -85.7250     0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D2         BottomLayer SOD323FL         -104.7750    0.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        
+D1         BottomLayer SOD323FL         -128.5000    1.0000       270      "DIODE GEN PURP 80V 125MA SOD323"                                        "ON Semi" 1N4148WT         True        

@@ -1,17 +1,10 @@
 Board Information Report
 Filename     : C:\Users\TamasSzabo\Documents\GitHub\Ortho4Exent\PCB\PCB.PcbDoc
-Date         : 2020-12-27
-Time         : 12:22:22
+Date         : 2021-01-14
+Time         : 17:18:04
 Time Elapsed : 00:00:00
 
 General
     Board Size, 303.55mmx94.7175mm
     Components on board, 199
 count : 2
-
-Routing Information
-    Routing completion, 100.00%
-    Connections, 370
-    Connections routed, 370
-    Connections remaining, 0
-count : 4

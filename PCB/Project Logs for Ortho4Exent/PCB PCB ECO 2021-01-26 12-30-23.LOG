@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J? Old Footprint=65100516121 New Footprint=651305142821
+Change Component Comment : Designator=J? Old Comment=65100516121 New Comment=651305142821
+Change component parameters: Designator = "J?" ("J?"); Footprint = "65100516121"; UniqueID = "\XEBGEOVF" ("\XEBGEOVF")
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/651305142821.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "10/10/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "651305142821"; VariantName = "[No Variations]"
