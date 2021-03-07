@@ -3,3 +3,7 @@
 PCB/__Previews/*
 PCB/History/*
 Purchasing/*
+*.REPPreview
+PCB/Project Outputs for Ortho4Exent/Pick Place/__Previews/Pick Place for pcb(PRODUCTION).txtPreview
+PCB/Plate/Gerber/__Previews/pcb.REPPreview
+PCB/Project Outputs for Ortho4Exent/Gerber/__Previews/pcb.REPPreview

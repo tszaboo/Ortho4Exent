@@ -4,9 +4,9 @@ C:\Users\TamasSzabo\Documents\GitHub\Ortho4Exent\PCB\Project Outputs for Ortho4E
 ========================================================================================================================
 File Design Information:
 
-Date:       02-03-21
-Time:       12:28
-Revision:   015c830f023ceb906f25910da54094b2559bed83
+Date:       07-03-21
+Time:       16:20
+Revision:   93607169710f0d08e77742fc52a4e4c1001004ea
 Variant:    PRODUCTION
 Units used: mm
 

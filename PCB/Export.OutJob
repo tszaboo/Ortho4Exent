@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Export.OutJob
+Name=
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=Plate
 VariantName=PRODUCTION
 VariantScope=1
 CurrentConfigurationName=
@@ -112,7 +112,7 @@ OutputName4=Bill of Materials
 OutputCategory4=Report
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=5
@@ -233,7 +233,7 @@ OutputName10=Generates pick and place files
 OutputCategory10=Assembly
 OutputDocumentPath10=
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=0
 OutputEnabled10_OutputMedium3=4
@@ -247,7 +247,7 @@ OutputName11=Gerber Files
 OutputCategory11=Fabrication
 OutputDocumentPath11=
 OutputVariantName11=
-OutputEnabled11=1
+OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=1
@@ -261,7 +261,7 @@ OutputName12=Gerber X2 Files
 OutputCategory12=Fabrication
 OutputDocumentPath12=
 OutputVariantName12=
-OutputEnabled12=1
+OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
 OutputEnabled12_OutputMedium2=0
 OutputEnabled12_OutputMedium3=3
@@ -275,7 +275,7 @@ OutputName13=NC Drill Files
 OutputCategory13=Fabrication
 OutputDocumentPath13=
 OutputVariantName13=
-OutputEnabled13=1
+OutputEnabled13=0
 OutputEnabled13_OutputMedium1=0
 OutputEnabled13_OutputMedium2=0
 OutputEnabled13_OutputMedium3=2
@@ -289,7 +289,7 @@ OutputName14=Plate
 OutputCategory14=Fabrication
 OutputDocumentPath14=
 OutputVariantName14=
-OutputEnabled14=0
+OutputEnabled14=1
 OutputEnabled14_OutputMedium1=0
 OutputEnabled14_OutputMedium2=0
 OutputEnabled14_OutputMedium3=0
@@ -311,6 +311,26 @@ OutputEnabled15_OutputMedium4=0
 OutputEnabled15_OutputMedium5=0
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType16=PCB Print
+OutputName16=Plate
+OutputCategory16=Documentation
+OutputDocumentPath16=
+OutputVariantName16=
+OutputEnabled16=0
+OutputEnabled16_OutputMedium1=0
+OutputEnabled16_OutputMedium2=6
+OutputEnabled16_OutputMedium3=0
+OutputEnabled16_OutputMedium4=0
+OutputEnabled16_OutputMedium5=0
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration16_Name1=OutputConfigurationParameter1
+Configuration16_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration16_Name2=OutputConfigurationParameter2
+Configuration16_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=New PrintOut 1|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration16_Name3=OutputConfigurationParameter3
+Configuration16_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+PcbPrintPreferences16=
 
 [PublishSettings]
 OutputFilePath2=C:\Users\TamasSzabo\Documents\GitHub\Ortho4Exent\PCB\Project Outputs for Ortho4Exent\Job1.PDF
