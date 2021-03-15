@@ -1,9 +1,0 @@
-Added Parameter MANUF=Microchip to Part U1
-Added Parameter MANUF=MOLEX to Part J1
-Added Parameter MANUF=WE/IQD to Part Y1
-Added Parameter MANUF=WE to Part S72
-Added Parameter MANUFCODE=513870530 to Part J1
-Added Parameter MANUFCODE=434153017835  to Part S72
-Added Parameter MANUFCODE=ATMEGA32U4-MU-ND to Part U1
-Added Parameter MANUFCODE=ATMEGA32U4-MU-ND to Part Y1
-Added Parameter NoPins=44 to Part U1
