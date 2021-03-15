@@ -1,17 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 16:09:11 On 2021-03-07
-
-Output: Plate
-Type  : Gerber
-From  : Variant [PRODUCTION] of PCB Document [pcb.PcbDoc]
-   Generated File[pcb.GM3]
-   Generated File[pcb.RUL]
-   Generated File[pcb.EXTREP]
-   Generated File[pcb.REP]
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [pcb.PcbDoc]
+   Generated File[pcb.DWG]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 16:09:12 On 2021-03-07
+Finished Output Generation At 22:18:24 On 2021-03-15
