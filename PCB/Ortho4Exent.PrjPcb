@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -123,23 +125,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LPWAUTPB
 
 [Document6]
-DocumentPath=Ortho4Exent.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=..\..\..\..\..\..\SVN\Common\Altium component library\Würth\WE-TVS_rev16a.intlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=pcb.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -279,171 +264,187 @@ DocumentPath=Project Outputs for Ortho4Exent\NC Drill\pcb.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.EXTREP
+DocumentPath=.\Plate\AutoCAD PCB\pcb.DWG
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\pcb.EXTREP
+DocumentPath=.\Plate\Gerber\pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBL
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBO
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBP
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBS
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GKO
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM1
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM2
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM11
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM13
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM15
+DocumentPath=.\Plate\Gerber\pcb.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GPB
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GPT
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTL
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTO
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTP
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTS
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Ortho4Exent\NC Drill\pcb.LDP
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.REP
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\pcb.REP
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.RUL
+DocumentPath=Project Outputs for Ortho4Exent\NC Drill\pcb.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\pcb.RUL
+DocumentPath=.\Plate\Gerber\pcb.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.REP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\pcb.REP
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Keep-out.gbr
+DocumentPath=.\Plate\Gerber\pcb.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for Ortho4Exent\Gerber\pcb.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\pcb.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_2.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_11.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_13.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_15.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Pads_Top.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_11.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Paste_Top.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Profile.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for Ortho4Exent\Pick Place\Pick Place for pcb(PRODUCTION).txt
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for Ortho4Exent\BOM\Production BOM-Ortho4Exent(PRODUCTION).xlsx
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Ortho4Exent\GerberX2\PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Ortho4Exent\Pick Place\Pick Place for pcb(PRODUCTION).txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1004,6 +1005,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1331,6 +1362,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1398,12 +1431,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
